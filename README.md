@@ -4,7 +4,7 @@
 
 Welcome to my digital workspace!
 
-I am Davood, a journalist, researcher and aspiring data storyteller based in Kerala, India.
+I am Muhammed Davood, a journalist, researcher and aspiring data storyteller based in Kerala, India.
 
 With 13 years of professional journalism experience, I am currently exploring the intersection of journalism, data, visual communication and Digital Humanities.
 
